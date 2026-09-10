@@ -5,7 +5,7 @@ A menu-driven Hospital Management System built using **Python and SQLite**. The 
 ## Technologies Used
 
 * Python
-* SQLite
+* Mysql
 * Git
 * GitHub
 * Visual Studio Code
@@ -18,7 +18,7 @@ A menu-driven Hospital Management System built using **Python and SQLite**. The 
 * Billing management
 * Receptionist functions
 * Administrator functions
-* SQLite database
+* Mysql database
 * Menu-driven system
 
 ## Project Structure
